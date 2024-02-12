@@ -3,6 +3,5 @@ This is a simple car rental system implemented in Java using Object-Oriented Pro
 ## Features
 🚀Rent a Car: Customers can rent available cars by specifying their name, the car they want to rent, and the number of days they wish to rent it for.
 🔁 Return a Car: Customers can return a rented car by specifying the car's ID.
-Dynamic Pricing: Each car has a base price per day, and the total price for rental is calculated based on the number of days selected by the customer.
-📝Data Management: The system manages information about cars, customers, and rentals, ensuring accurate tracking and processing.
-
+👥 Customer Management: Add new customers and maintain customer records. 
+🚗 Car Management: Manage cars, brands, models, and pricing details. 📝 Rental History: Keep track of rentals, customers, and rental durations.
