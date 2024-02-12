@@ -14,6 +14,7 @@ Data Management: The system manages information about cars, customers, and renta
 Option 1: Rent a car
 Option 2: Return a car
 Option 3: Exit the system
+
 3.Renting a Car:
 
 Enter your name.
