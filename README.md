@@ -10,6 +10,7 @@ Data Management: The system manages information about cars, customers, and renta
 1.Run the Application: Compile and run the Main.java file to start the car rental system.
 
 2.Menu Options: Follow the prompts in the console to navigate through the menu options.
+
 Option 1: Rent a car
 Option 2: Return a car
 Option 3: Exit the system
