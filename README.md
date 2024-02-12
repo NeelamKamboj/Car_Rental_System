@@ -5,7 +5,8 @@ Rent a Car: Customers can rent available cars by specifying their name, the car 
 Return a Car: Customers can return a rented car by specifying the car's ID.
 Dynamic Pricing: Each car has a base price per day, and the total price for rental is calculated based on the number of days selected by the customer.
 Data Management: The system manages information about cars, customers, and rentals, ensuring accurate tracking and processing.
-###How to Use
+
+### How to Use
 1.Run the Application: Compile and run the Main.java file to start the car rental system.
 2.Menu Options: Follow the prompts in the console to navigate through the menu options.
 Option 1: Rent a car
